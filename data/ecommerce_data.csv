@@ -1,0 +1,11 @@
+Order_ID,Customer_Name,Age,City,Product,Price,Quantity,Order_Date
+1001,Ravi,25,Hyderabad,Laptop,55000,1,2026-01-05
+1002,Priya,28,Mumbai,Mouse,800,2,2026-01-06
+1003,Arun,,Hyderabad,Keyboard,1500,1,2026-01-07
+1004,Ravi,25,hyderabad,Laptop,55000,1,2026-01-05
+1005,Anita,32,Bangalore,Monitor,12000,1,2026-01-08
+1006,Rahul,27,Mumbai,Mouse,800,3,2026-01-09
+1007,Sneha,30,HYDERABAD,Keyboard,1500,2,2026-01-10
+1008,Kiran,,Bangalore,Laptop,55000,1,2026-01-11
+1009,Pooja,26,Mumbai,Monitor,12000,1,2026-01-12
+1010,Ravi,25,Hyderabad,Laptop,55000,1,2026-01-05
